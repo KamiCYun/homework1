@@ -1,6 +1,6 @@
+What is the difference between a merge and a rebase?
 
-
-
+merge combines two branches, rebase overwrites one
 
 
 What is a remote repository?
